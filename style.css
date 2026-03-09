@@ -52,3 +52,11 @@ ul{
 strong{
     font-weight:600;
 }
+
+.nav{
+    margin-left:24px;
+}
+
+.nav p{
+    margin-bottom:8px;
+}
